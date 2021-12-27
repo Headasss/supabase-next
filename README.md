@@ -1,9 +1,11 @@
 # Supabase-Next
-Template with user auth, email sign up, and database for profiles
 
+Open Source Firebase alternative.
+Built with Next.js and Supabase.
+Template with user auth, email sign up, and database for profiles
 Authentification with row level security. Automatically generated API's.
 
-Building the widget to upload and store large files.
+Currently building the widget to upload and store large files.
 
 
 
